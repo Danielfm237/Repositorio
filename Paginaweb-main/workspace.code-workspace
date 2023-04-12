@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AvanceProyecto-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Paginaweb-main"
+	}
+}
